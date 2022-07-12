@@ -12,4 +12,10 @@
 
 - Pewlitt Hackard has many senior staff positions that will need to be filled by promotions and outside hires.
 
-- There are 1,940 employees who qualify for the mentorship program. Since the company has over 50,000 employees with senior positions retiring, Pewlitt Hackard may want to consider expanding the program to allow more retiring employees to be eligible. 
+- There are 1,940 employees who qualify for the mentorship program. Since the company has over 50,000 employees with senior positions retiring, Pewlitt Hackard may want to consider expanding the program to allow more retiring employees to be eligible to mentor. 
+
+- The mentorship data shows that many of the employees eligible to mentor are not senior staff which means the program may not be as helpful for mentoring those positions. Another option Pewlitt Hackard may want to consider is capping how many non senior staff mentors there are to allow for more senior staff mentorship. 
+
+## Summary
+
+There are eventually 72,458 positions that will need to be filled in this upcoming "silver tsunami". Unfortunately, as shown in the data there are not enough retirement-ready employees in upper management who can help mentor the next generation of employees. Pewlitt Hackard needs to review their criteria for this mentorship program and consider making some changes so they retain more qualified employees to mentor. 
